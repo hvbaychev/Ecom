@@ -1,0 +1,16 @@
+Commands:
+
+php artisan make:model User -m   --> make Model and Migration file
+composer dump-autoload
+php artisan make:request MyCustomRequest
+
+dummybaychev@abv.bg
+Hristo123$
+
+
+
+HristoValentinov123$
+
+
+
+php artisan storage:link
